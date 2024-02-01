@@ -1,1 +1,1 @@
-# Medicenter-Training-Template
+Training Template
